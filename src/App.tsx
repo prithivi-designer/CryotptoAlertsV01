@@ -35,8 +35,7 @@ import {
   Hourglass,
   Box,
   Smartphone,
-  Hash,
-  ArrowRight
+  Hash
 } from 'lucide-react';
 
 const COIN_OPTIONS = [
